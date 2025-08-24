@@ -1,7 +1,6 @@
 # COSC243 Final Project: Multilingual NLP with Transformer Models
 
-## Paper
-📄 [Exploring POS & LID Tagging in Code-Switched Text (PDF)](paper/Final_Paper.pdf)
+Paper: 📄 [Exploring POS & LID Tagging in Code-Switched Text (PDF)](paper/Final_Paper.pdf)
 
 ![Poster](tagging-the-switch.jpg)
 
