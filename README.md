@@ -1,5 +1,10 @@
 # COSC243 Final Project: Multilingual NLP with Transformer Models
 
+## Paper
+📄 [Exploring POS & LID Tagging in Code-Switched Text (PDF)](paper/Final_Paper.pdf)
+
+![Poster](tagging-the-switch.jpg)
+
 ## Project Overview
 
 This project implements and evaluates various training strategies for multilingual Natural Language Processing (NLP) tasks, specifically **Language Identification (LID)** and **Part-of-Speech (POS) Tagging**. The implementation explores three distinct training paradigms:
